@@ -1,0 +1,27 @@
+#parrafo1{
+    color: darkgoldenrod;
+    background-color:darkorchid
+}
+h1{
+    color:blue;
+}
+h3{
+    color: violet;
+}
+#encabezado-cuatro{
+    color:green;
+}
+.color-red{
+    color:antiquewhite;
+}
+.color-blue{
+    color:blue;
+}
+body{
+    background-image: url(https://i.ytimg.com/vi/IC5ST6f5i2g/maxresdefault.jpg);
+    background-size:cover;                                          
+}
+.color-purple{
+    color:blanchedalmond;
+    text-shadow: 0px 0px 9px blue;
+}
